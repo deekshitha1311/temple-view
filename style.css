@@ -1,0 +1,178 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+}
+
+/* Header */
+.header {
+  background-image: url("https://dibyasikha.com/wp-content/uploads/2022/05/DS_Puri-Jagannath-Temple-6-768x1024.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+header.famous-for {
+    background-image: url("https://static.india.com/wp-content/uploads/2022/06/Jagannath-Rath-Yatra.png");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+header.timings {
+    background-image: url("https://blog.yatradham.org/wp-content/uploads/2025/06/Puri-Temple-TIming-During-Rath-Yatra.jpg");
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+
+.image{
+    width: 100vw;
+    height: auto;
+    display: block;
+
+     padding-right:10px; 
+    padding-left:10px; 
+    border-radius: 10px;
+
+}
+
+.images{
+   width: 100vw;
+    height: auto;
+    display: block;
+
+     padding-right:10px; 
+    padding-left:10px; 
+    border-radius: 10px;
+}
+
+.p{
+    width: 100vw;
+    height: auto;
+    display: block;
+
+     padding-right:10px; 
+    padding-left:10px; 
+    border-radius: 10px;
+}
+
+.para{
+    width: 100vw;
+    height: auto;
+    display: block;
+
+     padding-right:10px; 
+    padding-left:10px; 
+    border-radius: 10px;
+}
+
+/* About Section */
+.about-temples {
+  margin: 40px auto;
+  padding: 20px 30px 40px;
+  background-color: #FFFFFF;
+  overflow: auto;
+  width: 75%;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.about-temples p {
+  color: #666666;
+  line-height: 24px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Temple Cards */
+.location {
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f5f5dc;
+    border: 2px solid #8B4513;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.location h2 {
+    color: #8B0000;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.location p {
+    color: #333;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+
+
+/* Headings */
+h1 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-family: "Times New Roman", serif;
+  font-size: 70px;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+h2 {
+  color: #8B4513;
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #41292C;
+  text-align: center;
+}
+
+h4 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+h5 {
+  font-size: 18px;
+  font-weight: normal;
+}
+
+/* List */
+ul {
+  width: 75%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  border-bottom: 1px solid #E4BB97;
+  margin: 50px 0;
+  padding-bottom: 30px;
+}
+
+p {
+  color: #444;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+/* Links */
+a {
+  color: #214E34;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+a:hover {
+  color: #B22222;
+}
+
